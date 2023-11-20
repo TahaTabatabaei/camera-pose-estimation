@@ -1,7 +1,7 @@
 # Inside Looking-out (ILO) camera pose estimation
 We try to estimate a camera pose in 3D space using photos provided by the camera 
 itself. 
-The first Mini project of the "Computer Vision" course (University project).
+It is the first Mini-project of the "Computer Vision" course (University project).
 
 - Find details in the project's report [```MV1-Tabatabei.pdf```](https://github.com/TahaTabatabaei/camera-pose-estimation/blob/main/mono-camera/MV1-Tabatabaei.pdf) about what I did.
 - Photos inside [```mono-camera/checkerboard-pr```](https://github.com/TahaTabatabaei/camera-pose-estimation/tree/main/mono-camera/checkerboard-pr) used to calibrate the camera.
