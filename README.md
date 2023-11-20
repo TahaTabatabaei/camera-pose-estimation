@@ -1,4 +1,4 @@
-# camera-pose-estimation
+# Inside Looking-out (ILO) camera pose estimation
 We try to estimate a camera pose in 3D space using photos provided by the camera 
 itself. 
 The first Mini project of the "Computer Vision" course (University project).
